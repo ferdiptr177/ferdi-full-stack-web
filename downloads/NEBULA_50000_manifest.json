@@ -1,0 +1,12 @@
+{
+  "source_file": "NEBULA_50000.lua",
+  "source_lines": 50000,
+  "engine_lines": 2154,
+  "catalog_lines": 47846,
+  "unique_presets": 451,
+  "configuration_fields": 98,
+  "sha256": "4a86b1c6d00cf44841b17ce86fc7640ecbf68393519cfe8a30354f806f2afd18",
+  "roblox_runtime_tested": false,
+  "executor_compatibility_tested": false,
+  "anticheat_bypass_implemented": false
+}
